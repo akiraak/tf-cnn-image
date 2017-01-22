@@ -2,6 +2,7 @@
 
 Tensorflow のチュートリアルである Deep MNIST for Experts の畳み込み層とプーリング層のデータを画像化します。
 
+コードの解説は[「畳み込み層とプーリング層を画像表示してみるてすと - Qiita」](http://qiita.com/akiraak/items/870173a361a59f1e88bb)にあります。
 ## 環境構築
 
 + Python3.5を使用する
